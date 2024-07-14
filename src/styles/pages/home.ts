@@ -1,6 +1,4 @@
-import { relative } from 'path';
 import { styled } from '..';
-import { transform } from 'next/dist/build/swc';
 
 export const HomeContainer = styled('main', {
   display: 'flex',
